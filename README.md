@@ -1,0 +1,2 @@
+# Gpsdertected
+Fack gps detect
